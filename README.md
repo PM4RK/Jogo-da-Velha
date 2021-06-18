@@ -9,4 +9,4 @@
 
 
 
-##### _Este projeto serve para estudos de uma estrutura em HTML estilizando com o uso do CSS e por fim acrescentando o JavaScript,_ conforme irei aprendendo, irei melhorando esse projeto.
+##### _Este projeto serve para estudos de uma estrutura em HTML sendo estilizada com o CSS e por fim acrescentando o JavaScript,_ conforme irei aprendendo, irei melhorando esse projeto.
